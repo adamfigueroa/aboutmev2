@@ -155,6 +155,10 @@ form {
     font-family: 'Montserrat',sans-serif;
 }
 
+form input,
+form textarea {
+  width: 100%;
+}
 
 fieldset {
     border-radius: 10px;
