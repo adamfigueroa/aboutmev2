@@ -110,6 +110,27 @@ ul li {
     border-radius: 10px;
 }
 
+ol {
+    list-style: none;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+ol {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.specialbtn {
+    padding: 20px;
+}
+
+.specialbtn:hover {
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: #ffffff;
+    transition-duration: 0.4s;
+}
 
 
 /* ------------------- Projects Section ------------------ */
